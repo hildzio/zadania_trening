@@ -1,0 +1,15 @@
+C:\Users\tomas\projekty_csharp\Zadania_trening\Zadania_trening\obj\Debug\net7.0\Zadania_trening.csproj.AssemblyReference.cache
+C:\Users\tomas\projekty_csharp\Zadania_trening\Zadania_trening\obj\Debug\net7.0\Zadania_trening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\projekty_csharp\Zadania_trening\Zadania_trening\obj\Debug\net7.0\Zadania_trening.AssemblyInfoInputs.cache
+C:\Users\tomas\projekty_csharp\Zadania_trening\Zadania_trening\obj\Debug\net7.0\Zadania_trening.AssemblyInfo.cs
+C:\Users\tomas\projekty_csharp\Zadania_trening\Zadania_trening\obj\Debug\net7.0\Zadania_trening.csproj.CoreCompileInputs.cache
+C:\Users\tomas\projekty_csharp\Zadania_trening\Zadania_trening\bin\Debug\net7.0\Zadania_trening.exe
+C:\Users\tomas\projekty_csharp\Zadania_trening\Zadania_trening\bin\Debug\net7.0\Zadania_trening.deps.json
+C:\Users\tomas\projekty_csharp\Zadania_trening\Zadania_trening\bin\Debug\net7.0\Zadania_trening.runtimeconfig.json
+C:\Users\tomas\projekty_csharp\Zadania_trening\Zadania_trening\bin\Debug\net7.0\Zadania_trening.dll
+C:\Users\tomas\projekty_csharp\Zadania_trening\Zadania_trening\bin\Debug\net7.0\Zadania_trening.pdb
+C:\Users\tomas\projekty_csharp\Zadania_trening\Zadania_trening\obj\Debug\net7.0\Zadania_trening.dll
+C:\Users\tomas\projekty_csharp\Zadania_trening\Zadania_trening\obj\Debug\net7.0\refint\Zadania_trening.dll
+C:\Users\tomas\projekty_csharp\Zadania_trening\Zadania_trening\obj\Debug\net7.0\Zadania_trening.pdb
+C:\Users\tomas\projekty_csharp\Zadania_trening\Zadania_trening\obj\Debug\net7.0\Zadania_trening.genruntimeconfig.cache
+C:\Users\tomas\projekty_csharp\Zadania_trening\Zadania_trening\obj\Debug\net7.0\ref\Zadania_trening.dll
